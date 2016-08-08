@@ -1,0 +1,44 @@
+_repo: Personality-Plus--Some-Experiences-of-Emma-McChesney-and-Her-Son-Jock_12677
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Flagg, James Montgomery
+    alias: Flagg, J. Montgomery
+    birthdate: 1877
+    deathdate: 1960
+    gutenberg_agent_id: '25940'
+    url: http://www.gutenberg.org/2009/agents/25940
+    wikipedia: http://en.wikipedia.org/wiki/James_Montgomery_Flagg
+creator:
+  author:
+    agent_name: Ferber, Edna
+    birthdate: 1885
+    deathdate: 1968
+    gutenberg_agent_id: '193'
+    url: http://www.gutenberg.org/2009/agents/193
+    wikipedia: http://en.wikipedia.org/wiki/Edna_Ferber
+description: Ferber's first big success as a writer came with the character Emma McChesney,
+  a plucky, self-made businesswoman. This volume, published in 1914, is the second
+  in a trilogy that begins with Roast Beef, Medium (1913) and finishes with Emma McChesney
+  and Co. (1915). In this book, Emma's twenty-one-year-old son, Jock, comes to the
+  fore.
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12677'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'McChesney, Emma (Fictitious character) -- Fiction'
+- !lcsh 'Businesswomen -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Adventure stories, American'
+- !lcsh 'Mothers and sons -- Fiction'
+- !lcsh 'Traveling sales personnel -- Fiction'
+- !lcsh 'Women sales personnel -- Fiction'
+- !lcsh 'Domestic fiction, American'
+- GITenberg
+title: 'Personality Plus: Some Experiences of Emma McChesney and Her Son, Jock'
+url: http://www.gutenberg.org/ebooks/12677
