@@ -1,5 +1,5 @@
 _repo: Personality-Plus--Some-Experiences-of-Emma-McChesney-and-Her-Son-Jock_12677
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Flagg, James Montgomery
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '25940'
     url: http://www.gutenberg.org/2009/agents/25940
     wikipedia: http://en.wikipedia.org/wiki/James_Montgomery_Flagg
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Ferber, Edna
@@ -22,6 +25,8 @@ description: Ferber's first big success as a writer came with the character Emma
   in a trilogy that begins with Roast Beef, Medium (1913) and finishes with Emma McChesney
   and Co. (1915). In this book, Emma's twenty-one-year-old son, Jock, comes to the
   fore.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12677#Personality-Plus--Some-Experiences-of-Emma-McChesney-and-Her-Son-Jock
 gutenberg_issued: '2004-06-01'
 gutenberg_type: Text
 identifiers:
